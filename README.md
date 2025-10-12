@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=merko"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
@@ -22,15 +22,29 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/a8wlt9.gif"  />
-
-###
-
 <h3 align="left">Sobre mim</h3>
 
 ###
 
 <p align="left">😺 Tem um gato chamado : GIT<br>📚 Estuda : Estudo no mínimo 2/3 horas por dia <br>🎯 Objetivo : Fazer MBA e ser estagiário em uma multinacional<br>🙃 Fato engraçado : Escuta música clássica enquanto coda</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/a8wlt9.gif"  />
+</div>
+
+###
+
+<h4 align="center">Me encontre</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@EscolaAcademy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ###
 
@@ -54,18 +68,6 @@
 
 ###
 
-<h4 align="center">Me encontre</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@EscolaAcademy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helitoncantalice-dev&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es%20para%20a%20comunidade" height="300" alt="activity-graph graph"  />
 </div>
@@ -73,7 +75,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
 </div>
 
 ###
