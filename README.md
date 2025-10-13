@@ -66,6 +66,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 October 2025 - To: 12 October 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ###
