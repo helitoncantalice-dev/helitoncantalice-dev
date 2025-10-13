@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Meu nome e Heliton Cantalice <br>Founder : </Academy><br>Desenvolvedor FullStack / Apaixonado pelo Back-end</h4>
+<h4 align="center">Meu nome e Heliton Cantalice <br>Founder : Academy<br>Desenvolvedor FullStack / Apaixonado pelo Back-end</h4>
 
 ###
 
