@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="center">Tenho um curso FULLSTACK que oferece material gratuito para a comuidade, lá você tem o mesmo caminho e projetos de um curso pago totalmente de graça !</h4>
+<h4 align="center">Tenho um curso FULLSTACK que oferece material gratuito para a comunidade, lá você tem o mesmo caminho e projetos de um curso pago totalmente de graça !</h4>
 
 ###
 
