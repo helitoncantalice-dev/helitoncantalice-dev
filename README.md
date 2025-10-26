@@ -68,10 +68,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-CSS    3 hrs 12 mins   █████████████░░░░░░░░░░░░   52.02 %
-HTML   2 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.98 %
+CSS    2 hrs 27 mins   █████████████░░░░░░░░░░░░   52.49 %
+HTML   2 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.51 %
 ```
 
 <!--END_SECTION:waka-->
